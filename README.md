@@ -10,7 +10,10 @@ Sometihngs about me 👌
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Re-Python" height="50" width="60" src="https://raw.githubusercontent.com/reguitads/reguitads/main/icons/python-original-wordmark.svg">
-
+  <img align="center" alt="Re-Pandas" height="50" width="60" src="https://raw.githubusercontent.com/reguitads/reguitads/main/icons/pandas-original-wordmark.svg">
+  <img align="center" alt="Re-Numpy" height="50" width="60" src="https://raw.githubusercontent.com/reguitads/reguitads/main/icons/numpy-original-wordmark.svg">
+  <img align="center" alt="Re-Mysql" height="50" width="60" src="https://raw.githubusercontent.com/reguitads/reguitads/main/icons/mysql-original-wordmark.svg">
+  <img align="center" alt="Re-Jupyter" height="50" width="60" src="https://raw.githubusercontent.com/reguitads/reguitads/main/icons/jupyter-original-wordmark.svg"> 
 </div>
   
   ##
