@@ -9,7 +9,7 @@ Sometihngs about me 👌
 - 🙃 Pronouns: He/Him
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Re-Python" height="30" width="40" src="https://raw.githubusercontent.com/reguitads/reguitads/main/icons/python-original-wordmark.svg">
+  <img align="center" alt="Re-Python" height="50" width="60" src="https://raw.githubusercontent.com/reguitads/reguitads/main/icons/python-original-wordmark.svg">
 
 </div>
   
