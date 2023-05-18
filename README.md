@@ -9,7 +9,7 @@ Somethings about me 👌
 - 🙃 Pronouns: He/Him
 
 <div style="display: inline_block"><br>
->>>> <img align="center" alt="Re-Mysite" height="35" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> 👨‍💻 >>>>> www.tecnozoo.com.br
+>>>> <img align="center" alt="Re-Mysite" height="50" width="150" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> 👨‍💻 >>>>> www.tecnozoo.com.br
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Re-Python" height="50" width="60" src="https://raw.githubusercontent.com/reguitads/reguitads/main/icons/python-original-wordmark.svg">
