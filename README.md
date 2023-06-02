@@ -2,8 +2,13 @@
 
 Somethings about me 👌
 
+I have a background in Computer Science 🖥️ and a postgraduate degree in Business Management, with a strong focus on analytics and data science. Throughout my career, I gained experience working within companies, where I played a key role in data analysis for strategic decision making, creating indicators through business intelligence.💡
+
+I have used a wide variety of tools including 🐍 Python, SQL, Tableau, Looker Studio (Data Studio), Power BI, HTML, CSS, Excel and Google Sheets, . Currently, I am improving my knowledge in data science, aiming to interpret and use data effectively to help companies achieve their goals and solve business problems efficiently.
+
 - 📧 My contact renatobragadatascience@gmail.com
 - 🙃 Pronouns: He/Him
+
 
 <div style="display: inline_block"><br>
 >>>> <img align="center" alt="Re-Mysite" height="50" width="150" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> 👨‍💻 >>>>> www.tecnozoo.com.br
