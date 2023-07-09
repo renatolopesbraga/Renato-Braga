@@ -11,9 +11,6 @@ I have used a wide variety of tools including 🐍 Python, SQL, Tableau, Looker 
 
 
 <div style="display: inline_block"><br>
->>>> <img align="center" alt="Re-Mysite" height="50" width="150" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> 👨‍💻 >>>>> www.tecnozoo.com.br
-</div>
-<div style="display: inline_block"><br>
   <img align="center" alt="Re-Python" height="50" width="60" src="https://raw.githubusercontent.com/reguitads/reguitads/main/icons/python-original-wordmark.svg">
   <img align="center" alt="Re-Pandas" height="50" width="60" src="https://raw.githubusercontent.com/reguitads/reguitads/main/icons/pandas-original-wordmark.svg">
   <img align="center" alt="Re-Numpy" height="50" width="60" src="https://raw.githubusercontent.com/reguitads/reguitads/main/icons/numpy-original-wordmark.svg">
