@@ -8,6 +8,7 @@ I have used a wide variety of tools including 🐍 Python, SQL, Tableau, Looker 
 
 - 📧 My contact renatobragadatascience@gmail.com
 - 🙃 Pronouns: He/Him
+- 📊 𝐏𝐨𝐫𝐭𝐨𝐟𝐨𝐥𝐢𝐨 𝐃𝐚𝐭𝐚𝐕𝐢𝐳 - https://public.tableau.com/app/profile/renato.braga
 
 
 <div style="display: inline_block"><br>
